@@ -1,14 +1,14 @@
 {
-  "Version": "86.0.0",
+  "Version": "87.0.0",
   "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING EW TUNNEL❤️",
   "Servers": [
     {
-      "Name": "kenya",
-      "FLAG": "kr",
-      "ServerIP": "139.144.99.226",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
+      "Name": "Mbaale Free",
+      "FLAG": "ug",
+      "ServerIP": "139.144.71.27",
+      "ServerUser": "prince",
+      "ServerPass": "mxtunnel:mx",
       "sInfo": "NO DATA LOAD",
       "Slowchave": "",
       "Nameserver": "",
