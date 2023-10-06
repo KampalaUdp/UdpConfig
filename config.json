@@ -1,5 +1,5 @@
 {
-  "Version": "86.0.0",
+  "Version": "88.0.0",
   "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING EW TUNNEL❤️",
   "Servers": [
@@ -15,6 +15,28 @@
       "servermessage": "***--- PUBLIC SERVER ---***",
       "tunnelT": "UDP"
     },
+    {
+       "Name": "HYSTERIA",
+      "FLAG": "ca",
+  "server": "95.217.176.20:20000-50000",
+  "obfs": "kobe",
+  "auth_str": "420420:420420",
+  "up_mbps": 4,
+  "down_mbps": 6,
+  "retry": 3,
+  "retry_interval": 1,
+  "socks5": {
+    "listen": "127.0.0.1:1080"
+  },
+  "http": {
+    "listen": "127.0.0.1:8989"
+  },
+  "insecure": true,
+  "lazy_start": true,
+  "ca": "",
+  "recv_window_conn": 196608,
+ "recv_window": 491520
+},
     {
       "Name": "Toronto",
       "FLAG": "ca",
