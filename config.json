@@ -1,23 +1,23 @@
 {
-  "Version": "90.0.0",
+  "Version": "90.1.0",
   "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING EW TUNNEL❤️",
   "Servers": [
   
     {
-      "Name": "United States 4",
-      "FLAG": "us",
+      "Name": "KAMPALA CITY FREE🇺🇬",
+      "FLAG": "de",
       "ServerIP": "68.183.153.31",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
-      "sInfo": "New York - Unlimited",
+      "sInfo": "Unlimited Connection",
       "Slowchave": "",
       "Nameserver": "",
-      "servermessage": "***Don't forget to add time***",
+      "servermessage": "***MADE IN UGANDA 🇺🇬***",
       "tunnelT": "UDP"
     },
     {
-      "Name": "United States 5",
+      "Name": "ALL COUNTRY FREE🌐",
       "FLAG": "us",
       "ServerIP": "68.183.153.31",
       "ServerUser": "agnudp",
@@ -29,7 +29,7 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "United States 6",
+      "Name": "STC FREE UDP🚀",
       "FLAG": "us",
       "ServerIP": "68.183.153.31",
       "ServerUser": "agnudp",
@@ -41,63 +41,51 @@
       "tunnelT": "UDP"
     },
     {
+      "Name": "MBARARA CITY 🇺🇬",
+      "FLAG": "ca",
+      "ServerIP": "143.110.208.193",
+      "ServerUser": "agnudp",
+      "ServerPass": "agnudp",
+      "sInfo": "Western Region",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "***MADE IN UGANDA 🇺🇬***",
+      "tunnelT": "UDP"
+    },
+    {
+      "Name": "SAUDI ARABIA UDP🇸🇦",
+      "FLAG": "ca",
+      "ServerIP": "143.110.208.193",
+      "ServerUser": "agnudp",
+      "ServerPass": "agnudp",
+      "sInfo": "Unlimited CONNECTION",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "***Don't forget to add time***",
+      "tunnelT": "UDP"
+    },
+    {
       "Name": "Canada 1",
       "FLAG": "ca",
       "ServerIP": "143.110.208.193",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
-      "sInfo": "Montreal - Unlimited",
+      "sInfo": "Toronto - address",
       "Slowchave": "",
       "Nameserver": "",
       "servermessage": "***Don't forget to add time***",
       "tunnelT": "UDP"
     },
     {
-      "Name": "Canada 2",
-      "FLAG": "ca",
-      "ServerIP": "143.110.208.193",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
-      "sInfo": "Toronto - Unlimited",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***Don't forget to add time***",
-      "tunnelT": "UDP"
-    },
-    {
-      "Name": "Canada 3",
-      "FLAG": "ca",
-      "ServerIP": "143.110.208.193",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
-      "sInfo": "Vancouver - Unlimited",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***Don't forget to add time***",
-      "tunnelT": "UDP"
-    },
-    {
-      "Name": "Canada 4",
-      "FLAG": "ca",
-      "ServerIP": "143.110.208.193",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
-      "sInfo": "Toronto - Unlimited",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***Don't forget to add time***",
-      "tunnelT": "UDP"
-    },
-    {
-      "Name": "United Kingdom 1",
+      "Name": "JINJA CITY 🇺🇬",
       "FLAG": "uk",
       "ServerIP": "138.68.161.193",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
-      "sInfo": "UK West - Unlimited",
+      "sInfo": "Eastern Region",
       "Slowchave": "",
       "Nameserver": "",
-      "servermessage": "***Don't forget to add time***",
+      "servermessage": "***MADE IN UGANDA 🇺🇬***",
       "tunnelT": "UDP"
     },
     {
@@ -233,8 +221,8 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "Germany",
-      "FLAG": "de",
+      "Name": "USA 🆓",
+      "FLAG": "us",
       "ServerIP": "138.68.161.193",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
@@ -245,15 +233,15 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "Germany 2",
+      "Name": "MUSEVENI ULTIMATE💯🇺🇬",
       "FLAG": "de",
       "ServerIP": "68.183.153.31",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
-      "sInfo": "EPS - Unlimited",
+      "sInfo": "Jajja",
       "Slowchave": "",
       "Nameserver": "",
-      "servermessage": "***Don't forget to add time***",
+      "servermessage": "***MADE IN UGANDA 🇺🇬***",
       "tunnelT": "UDP"
     },
     {
@@ -308,18 +296,6 @@
              "Name": "Japani",
             "FLAG": "kr",
             "ServerIP": "139.144.99.226",
-            "ServerUser": "agnudp",
-            "ServerPass": "agnudp",
-            "sInfo": "NO DATA LOAD",
-            "Slowchave": "",
-            "Nameserver": "",
-            "servermessage": "***--- PUBLIC SERVER ---***",
-            "tunnelT": "UDP"
-        },
-        {
-            "Name": "Toronto",
-            "FLAG": "ca",
-            "ServerIP": "143.110.208.193",
             "ServerUser": "agnudp",
             "ServerPass": "agnudp",
             "sInfo": "NO DATA LOAD",
@@ -401,15 +377,15 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "America",
-      "FLAG": "us",
+      "Name": "KAMPALA CITY FREE🇺🇬 2",
+      "FLAG": "de",
       "ServerIP": "68.183.153.31",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
-      "sInfo": "NO DATA LOAD",
+      "sInfo": "Airtel ug",
       "Slowchave": "",
       "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
+      "servermessage": "***MADE IN UGANDA 🇺🇬***",
       "tunnelT": "UDP"
     }
   ],
