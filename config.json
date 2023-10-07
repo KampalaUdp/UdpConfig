@@ -258,7 +258,7 @@
    },
    {
             "Name": "Singapore",
-            "FLAG": "Ir",
+            "FLAG": "sg",
             "ServerIP": "170.187.224.153",
             "ServerUser": "agnudp",
             "ServerPass": "agnudp",
