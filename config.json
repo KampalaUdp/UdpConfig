@@ -1,15 +1,15 @@
 {
-  "Version": "90.1.15",
+  "Version": "90.1.16",
   "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING KAMPALA TUNNEL❤️",
    "Servers": [
     {
       "Name": "RANDOM SERVER",
-      "FLAG": "us",
+      "FLAG": "kr",
       "ServerIP": "51.161.10.72",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
-      "sInfo": "Dallas, Texas - Unlimited",
+      "sInfo": "- Unlimited",
       "Slowchave": "",
       "Nameserver": "",
       "servermessage": "***🇺🇬MADE IN UGANDA🇺🇬***",
@@ -21,7 +21,7 @@
       "ServerIP": "154.38.165.209",
       "ServerUser": "epsserver",
       "ServerPass": "epsserver",
-      "sInfo": "UK West - Unlimited",
+      "sInfo": "Unlimited",
       "Slowchave": "",
       "Nameserver": "",
       "servermessage": "***🇺🇬MADE IN UGANDA🇺🇬***",
@@ -41,7 +41,7 @@
     },
     {
       "Name": "🇬🇭MTN GHANA🇬🇭",
-      "FLAG": "sg",
+      "FLAG": "jp",
      "ServerIP": "154.38.165.209",
       "ServerUser": "epsserver",
       "ServerPass": "epsserver",
@@ -89,7 +89,7 @@
     },
     {
       "Name": "🇲🇱MALI'S PRIDE🇲🇱",
-      "FLAG": "sg",
+      "FLAG": "jp",
       "ServerIP": "178.128.58.3",
       "ServerUser": "rdevzph",
       "ServerPass": "rdevzph",
@@ -113,7 +113,7 @@
     },
     {
       "Name": "KAMPALA CITY🚀",
-      "FLAG": "sg",
+      "FLAG": "de",
       "ServerIP": "154.38.165.209",
       "ServerUser": "epsserver",
       "ServerPass": "epsserver",
@@ -125,7 +125,7 @@
     },
     {
       "Name": "KAMPALA CITY🚀",
-      "FLAG": "sg",
+      "FLAG": "de",
       "ServerIP": "51.161.10.72",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
@@ -149,7 +149,7 @@
     },
     {
       "Name": "MBARARA TOWN🐄🤠",
-      "FLAG": "fr",
+      "FLAG": "de",
       "ServerIP": "154.38.165.209",
       "ServerUser": "epsserver",
       "ServerPass": "epsserver",
