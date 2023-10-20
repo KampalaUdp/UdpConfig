@@ -1,7 +1,7 @@
 {
-  "Version": "90.1.14",
+  "Version": "90.1.15",
   "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
-  "ReleaseNotes1": "THANK YOU FOR SUPPORTING EW TUNNEL❤️",
+  "ReleaseNotes1": "THANK YOU FOR SUPPORTING KAMPALA TUNNEL❤️",
    "Servers": [
     {
       "Name": "RANDOM SERVER",
@@ -18,10 +18,46 @@
     {
       "Name": "ALL COUNTRY FREE 🌐",
       "FLAG": "uk",
+      "ServerIP": "154.38.165.209",
+      "ServerUser": "epsserver",
+      "ServerPass": "epsserver",
+      "sInfo": "UK West - Unlimited",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "***🇺🇬MADE IN UGANDA🇺🇬***",
+      "tunnelT": "UDP"
+    },
+    {
+      "Name": "🇸🇦KSA || REDBULL FREE INTERNET",
+      "FLAG": "sg",
       "ServerIP": "51.161.10.72",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
-      "sInfo": "UK West - Unlimited",
+      "sInfo": "KCCA",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "***🇺🇬MADE IN UGANDA🇺🇬***",
+      "tunnelT": "UDP"
+    },
+    {
+      "Name": "🇬🇭MTN GHANA🇬🇭",
+      "FLAG": "sg",
+     "ServerIP": "154.38.165.209",
+      "ServerUser": "epsserver",
+      "ServerPass": "epsserver",
+      "sInfo": "Temperature 🌡️Prince",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "***🇺🇬MADE IN UGANDA🇺🇬***",
+      "tunnelT": "UDP"
+    },
+    {
+      "Name": "KAMPALA CITY🚀2",
+      "FLAG": "sg",
+      "ServerIP": "51.161.10.72",
+      "ServerUser": "agnudp",
+      "ServerPass": "agnudp",
+      "sInfo": "KCCA",
       "Slowchave": "",
       "Nameserver": "",
       "servermessage": "***🇺🇬MADE IN UGANDA🇺🇬***",
@@ -40,6 +76,30 @@
       "tunnelT": "UDP"
     },
     {
+      "Name": "🇧🇩BANGLADESH | ALL SIM FREE ",
+      "FLAG": "sg",
+      "ServerIP": "51.161.10.72",
+      "ServerUser": "agnudp",
+      "ServerPass": "agnudp",
+      "sInfo": "KCCA",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "***🇺🇬MADE IN UGANDA🇺🇬***",
+      "tunnelT": "UDP"
+    },
+    {
+      "Name": "🇲🇱MALI'S PRIDE🇲🇱",
+      "FLAG": "sg",
+      "ServerIP": "178.128.58.3",
+      "ServerUser": "rdevzph",
+      "ServerPass": "rdevzph",
+      "sInfo": "BINKE",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "***🇺🇬MADE IN UGANDA🇺🇬***",
+      "tunnelT": "UDP"
+    },
+    {
       "Name": "MUSEVENI ULTIMATE💯",
       "FLAG": "au",
       "ServerIP": "51.161.10.72",
@@ -52,7 +112,31 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "JINJA 🏙️ CITY",
+      "Name": "KAMPALA CITY🚀",
+      "FLAG": "sg",
+      "ServerIP": "154.38.165.209",
+      "ServerUser": "epsserver",
+      "ServerPass": "epsserver",
+      "sInfo": "KCCA",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "***🇺🇬MADE IN UGANDA🇺🇬***",
+      "tunnelT": "UDP"
+    },
+    {
+      "Name": "KAMPALA CITY🚀",
+      "FLAG": "sg",
+      "ServerIP": "51.161.10.72",
+      "ServerUser": "agnudp",
+      "ServerPass": "agnudp",
+      "sInfo": "KCCA",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "***🇺🇬MADE IN UGANDA🇺🇬***",
+      "tunnelT": "UDP"
+    },
+    {
+      "Name": "🇸🇦KSA ALL AREA WORKING 🇸🇦",
       "FLAG": "de",
       "ServerIP": "51.161.10.72",
       "ServerUser": "agnudp",
@@ -66,9 +150,9 @@
     {
       "Name": "MBARARA TOWN🐄🤠",
       "FLAG": "fr",
-      "ServerIP": "51.161.10.72",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
+      "ServerIP": "154.38.165.209",
+      "ServerUser": "epsserver",
+      "ServerPass": "epsserver",
       "sInfo": "Western Region",
       "Slowchave": "",
       "Nameserver": "",
@@ -91,4 +175,4 @@
     }
   ]
     }
-      
+     
