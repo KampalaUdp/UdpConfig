@@ -1,14 +1,14 @@
 {
-  "Version": "90.1.19",
+  "Version": "90.1.20",
   "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING KAMPALA TUNNEL❤️",
    "Servers": [
     {
       "Name": "SERVER UNDER MAINTENANCE",
       "FLAG": "kr",
-      "ServerIP": "154.38.165.209",
-      "ServerUser": "epsserver",
-      "ServerPass": "epsserver",
+      "ServerIP": "65.21.111.133",
+      "ServerUser": "2qZ7670:7425805",
+      "ServerPass": "panel",
       "sInfo": "Online",
       "Slowchave": "",
       "Nameserver": "",
@@ -18,9 +18,9 @@
     {
       "Name": "SERVER UNDER MAINTENANCE",
       "FLAG": "uk",
-      "ServerIP": "154.38.165.209",
-      "ServerUser": "epsserver",
-      "ServerPass": "epsserver",
+      "ServerIP": "65.21.111.133",
+      "ServerUser": "2qZ7670:7425805",
+      "ServerPass": "panel",
       "sInfo": "Online",
       "Slowchave": "",
       "Nameserver": "",
