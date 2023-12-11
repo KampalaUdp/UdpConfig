@@ -1,14 +1,14 @@
 {
-  "Version": "90.1.21",
+  "Version": "90.1.22",
   "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING KAMPALA TUNNEL❤️",
    "Servers": [
     {
       "Name": "SERVER 1",
       "FLAG": "kr",
-      "ServerIP": "89.117.16.186",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
+      "ServerIP": "154.38.165.209",
+      "ServerUser": "apphost1",
+      "ServerPass": "apphost1",
       "sInfo": "Online",
       "Slowchave": "",
       "Nameserver": "",
@@ -16,11 +16,11 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "SERVER UNDER MAINTENANCE",
+      "Name": "Server 2",
       "FLAG": "uk",
-      "ServerIP": "65.21.111.133",
-      "ServerUser": "2qZ7670:7425805",
-      "ServerPass": "panel",
+      "ServerIP": "154.38.165.209",
+      "ServerUser": "apphost1",
+      "ServerPass": "apphost1",
       "sInfo": "Online",
       "Slowchave": "",
       "Nameserver": "",
