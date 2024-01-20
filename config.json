@@ -1,12 +1,12 @@
 {
-  "Version": "90.1.23",
+  "Version": "90.1.24",
   "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING KAMPALA TUNNEL❤️",
    "Servers": [
     {
       "Name": "SERVER 1",
       "FLAG": "kr",
-      "ServerIP": "89.117.16.186",
+      "ServerIP": "64.23.160.145",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "Online",
@@ -18,7 +18,7 @@
     {
       "Name": "Server 2",
       "FLAG": "uk",
-      "ServerIP": "89.117.16.186",
+      "ServerIP": "64.23.160.145",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "Online",
